@@ -1,0 +1,78 @@
+{
+	"configs" : [
+		{
+			"remarks" : "新加坡B",
+			"id" : "AFCE92804E4A899B6E2A99DE7CF211D0",
+			"server" : "sg2.mailss.top",
+			"server_port" : 31913,
+			"server_udp_port" : 0,
+			"password" : "PNrVtx",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5paw5Yqg5Z2hQg",
+			"group" : "新加坡节点1",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "新加坡B",
+			"id" : "934ABEEF22CE986C5B5E447EAE05045F",
+			"server" : "sg2.mailss.top",
+			"server_port" : 21681,
+			"server_udp_port" : 0,
+			"password" : "0dtWhu",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "",
+			"remarks_base64" : "5paw5Yqg5Z2hQg",
+			"group" : "新加坡节点2",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "ab6N72mfTqmZ-l_KZBlo",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+		{
+			"URL" : "https://vipssr.tk/link/Hno7OLG6gMcaTGLS?mu=0",
+			"Group" : "vip SSR"
+		}
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
